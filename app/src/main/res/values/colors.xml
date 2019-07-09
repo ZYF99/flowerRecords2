@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <color name="colorAccent">#888888</color>
+    <color name="colorGry">#BEBEBE</color>
+    <color name="colorButton">#33CCCC</color>
+    <color name="colorSelectedText">#FFE37F</color>
+
+    <color name="color_signbottom">#e6b1ba</color>
+    <color name="color_signeditem">#e4cfcc</color>
+    <color name="color_unit">#131313</color> //年、月、日等单位的字体颜色
+    <color name="color_item_bg">#FFFFFF</color>
+    <color name="color_text_unselected">#484040</color> //未被选中的数字颜色
+    <color name="color_desc">#666666</color>
+    <color name="color_result">#57C5E8</color>
+    <color name="color_bg">#33CCCC</color> //作为背景
+    <color name="color_gold">#ffffff</color> //字体
+
+
+    <color name="colorPrimary">#33CCCC</color>
+    <color name="colorPrimaryDark">#33CCCC</color>
+    <color name="colorPrimaryBackInput">#6a33cccc</color>
+
+
+    <color name="colorPrimary_red">#f73859</color>
+    <color name="colorPrimary_red_t">#71f73859</color>
+
+
+    <color name="colorPrimary_pink">#e95280</color>
+    <color name="colorPrimary_pink_t">#68e95280</color>
+
+
+    <color name="colorPrimary_black">#131313</color>
+    <color name="colorPrimary_black_t">#78131313</color>
+
+
+    <color name="colorPrimary_yellow">#fec100</color>
+    <color name="colorPrimary_yellow_t">#5efec100</color>
+</resources>
