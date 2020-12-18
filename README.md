@@ -2,7 +2,15 @@
 ## Android原生开发的记账软件
 
 [项目快览](https://www.bilibili.com/video/BV1Dx411Z7iT/)
-	
+
+## 精彩截图
+![Screenshot_20201218-105937.jpg](https://upload-images.jianshu.io/upload_images/17794320-bc4038980f07f569.jpg?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+
+![Screenshot_20201218-105939.jpg](https://upload-images.jianshu.io/upload_images/17794320-d9ccb6d64ccf6ed5.jpg?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+
+![Screenshot_20201218-105943.jpg](https://upload-images.jianshu.io/upload_images/17794320-3c4d033402444f2a.jpg?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+
+![Screenshot_20201218-105948.jpg](https://upload-images.jianshu.io/upload_images/17794320-35fff31e41c6034e.jpg?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
 ## 请作者喝杯咖啡吧~
 ![qq_pic_merged_1608260264392.jpg](https://upload-images.jianshu.io/upload_images/17794320-823a9710246c4272.jpg?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
 
